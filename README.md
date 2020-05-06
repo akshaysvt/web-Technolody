@@ -1,2 +1,2 @@
-# web-Technolody
+# web-Technology
 coursera web technology
